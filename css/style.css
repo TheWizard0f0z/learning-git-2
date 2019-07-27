@@ -25,4 +25,5 @@ p:last-of-type {
 }
 span {
     font-style: italic;
+    font-weight: bold;
 }
