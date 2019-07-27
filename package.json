@@ -20,6 +20,10 @@
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.26.7",
-    "nu-html-checker": "^0.1.0"
+    "nu-html-checker": "^0.1.0",
+    "superagent": "^5.1.0"
+  },
+  "dependencies": {
+    "extend": "^3.0.2"
   }
 }

@@ -1,2 +1,2 @@
-autoprefixer-cli -o style.prefixed.css style.css
-var checker = require('nu-html-checker');
+autoprefixer-cli -o css/style.prefixed.css css/style.css
+nu-html-checker index.html
